@@ -134,8 +134,10 @@ PART A : https://youtu.be/pYV1jdDVlfA
 PART B : https://youtu.be/rqMQ-VtBidA
 
 ## Built With
+* [Anaconda](http://Anaconda.org/)
+* [Jupyter Notebook](http://jupyter.org) -The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code
 * DASH
-* FLASK
+* [FLASK](http://flask.pocoo.org)
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
